@@ -79,4 +79,10 @@ hr{
         padding-left: 10px;
         padding-right: 10px;
     }
+    .genbtn{
+        font-size: 14px;
+    }
+    .mainherp > .out{
+        width: auto;
+    }
 }
