@@ -79,8 +79,8 @@ hr{
         margin: 100px auto;
         padding-top: 50px;
         padding-bottom: 50px;
-        padding-left: 50px;
-        padding-right: 50px;
+        padding-left: 10px;
+        padding-right: 10px;
     }
     .genbtn{
         font-size: 14px;
