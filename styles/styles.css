@@ -64,6 +64,9 @@ hr{
     body{
         background: linear-gradient(to right, rgb(248, 4, 248), rgb(62, 62, 250))
     }
+    .container{
+    margin-top: 10px;
+    }
     .strng{
         font-size: 22px
     }
@@ -84,5 +87,7 @@ hr{
     }
     .out{
         font-size: 14px;
+        height : 40px;
+        width: auto;
     }
 }
