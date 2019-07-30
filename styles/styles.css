@@ -82,7 +82,7 @@ hr{
     .genbtn{
         font-size: 14px;
     }
-    .mainherp > .out{
-        width: auto;
+    .out{
+        font-size: 10px;
     }
 }
